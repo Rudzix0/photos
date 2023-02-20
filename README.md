@@ -1,2 +1,2 @@
 # photos
-##this folder contains test photos
+this folder contains test photos
