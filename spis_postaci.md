@@ -1,6 +1,20 @@
+### Stachu
 
 <img src = "https://github.com/Rudzix0/photos/blob/main/img/hobbit1a.png?raw=true">
+
+Jego pasią było zbieranie podejżanych roślin w lasach...
+
+---
+
+### Grzechu
+
 <img src = "https://github.com/Rudzix0/photos/blob/main/img/hobbit1b.png?raw=true">
+
+Najlebszy przyjaciel Stacha, przerabiał rośliny od Stacha na magiczne mikstury.
+
+ biznes się kręcił...
+---
+
 <img src = "https://github.com/Rudzix0/photos/blob/main/img/hobbit2a.png?raw=true">
 <img src = "https://github.com/Rudzix0/photos/blob/main/img/hobbit2b.png?raw=true">
 <img src = "https://github.com/Rudzix0/photos/blob/main/img/hobbit3a.png?raw=true">
